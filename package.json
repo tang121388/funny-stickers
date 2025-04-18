@@ -1,0 +1,12 @@
+{
+  "name": "funny-stickers",
+  "version": "1.0.0",
+  "description": "AI sticker generator website",
+  "main": "api/generate.js",
+  "scripts": {
+    "start": "node api/generate.js"
+  },
+  "dependencies": {
+    "replicate": "^0.25.1"
+  }
+} 
